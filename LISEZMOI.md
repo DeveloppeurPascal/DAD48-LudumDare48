@@ -1,4 +1,4 @@
-# DAD48
+# DAD48 (Ludum Dare 48)
 
 [This page in English.](README.md)
 
@@ -12,7 +12,7 @@ Ce dépôt de code contient un projet développé en langage Pascal Objet sous D
 
 ## Utiliser ce jeu vidéo
 
-Consultez [le site de DAD48](https://dad48.gamolf.fr) pour télécharger sa version compilée, en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
+Consultez [le site de DAD48](https://dad48.gamolf.fr/) pour télécharger sa version compilée, en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
 ## Présentations et conférences
 
@@ -22,7 +22,7 @@ Suivez mes streams de développement de logiciels, jeux vidéo, applications mob
 
 ## Installation des codes sources
 
-Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/DAD48).
+Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/DAD48-LudumDare48).
 
 Ce projet utilise des dépendances sous forme de sous modules. Ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
 
@@ -38,9 +38,9 @@ Je passe par des commentaires au format [XMLDOC](https://docwiki.embarcadero.com
 
 J'utilise régulièrement l'outil [DocInsight](https://devjetsoftware.com/products/documentation-insight/) pour les saisir et contrôler leur formatage.
 
-L'export de la documentation est fait en HTML par [DocInsight](https://devjetsoftware.com/products/documentation-insight/) ou [PasDoc](https://pasdoc.github.io) vers le dossier /docs du dépôt. Vous y avez aussi [accès en ligne](https://developpeurpascal.github.io/DAD48) grâce à l'hébergement offert par GitHub Pages.
+L'export de la documentation est fait en HTML par [DocInsight](https://devjetsoftware.com/products/documentation-insight/) ou [PasDoc](https://pasdoc.github.io) vers le dossier /docs du dépôt. Vous y avez aussi [accès en ligne](https://developpeurpascal.github.io/DAD48-LudumDare48) grâce à l'hébergement offert par GitHub Pages.
 
-D'autres informations (tutoriels, articles, vidéos, FAQ, présentations et liens) sont disponibles sur [le site web du projet](https://dad48.gamolf.fr) ou [le devlog du projet](https://developpeur-pascal.fr/dad48.html).
+D'autres informations (tutoriels, articles, vidéos, FAQ, présentations et liens) sont disponibles sur [le site web du projet](https://dad48.gamolf.fr/) ou [le devlog du projet](https://developpeur-pascal.fr/dad48.html).
 
 Si vous avez besoin d'explications ou d'aide pour comprendre ou utiliser certaines parties de ce projet dans le vôtre, n'hésitez pas à [me contacter](https://developpeur-pascal.fr/nous-contacter.php). Je pourrai soit vous orienter vers une ressource en ligne, soit vous proposer une assistance sous forme de prestation payante ou gratuite selon les cas. Vous pouvez aussi me faire signe à l'occasion d'une conférence ou pendant une présentation en ligne.
 
@@ -52,7 +52,7 @@ Normalement mes librairies et composants doivent aussi fonctionner au moins sur 
 
 Aucune garantie de compatibilité avec des versions antérieures n'est fournie même si je m'efforce de faire du code propre et ne pas trop utiliser les nouvelles façons d'écrire dedans (type inference, inline var et multilines strings).
 
-Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://github.com/DeveloppeurPascal/DAD48/issues) pour que je teste et tente de corriger ou fournir un contournement.
+Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://github.com/DeveloppeurPascal/DAD48-LudumDare48/issues) pour que je teste et tente de corriger ou fournir un contournement.
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
@@ -69,7 +69,7 @@ Les codes sources de ce dépôt de code comme leur éventuelle version compilée
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/DAD48) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/DAD48/issues).
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/DAD48-LudumDare48) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/DAD48-LudumDare48/issues).
 
 Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
 

@@ -1,4 +1,4 @@
-# DAD48
+# DAD48 (Ludum Dare 48)
 
 [Cette page en français.](LISEZMOI.md)
 
@@ -12,7 +12,7 @@ This code repository contains a project developed in Object Pascal language unde
 
 ## Using this video game
 
-Visit [the DAD48 website](https://dad48.gamolf.fr) to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+Visit [the DAD48 website](https://dad48.gamolf.fr/) to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
 ## Talks and conferences
 
@@ -22,7 +22,7 @@ Follow my development streams of software, video games, mobile applications and 
 
 ## Source code installation
 
-To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/DAD48).
+To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/DAD48-LudumDare48).
 
 This project uses dependencies in the form of sub-modules. They will be absent from the ZIP file. You'll have to download them by hand.
 
@@ -38,9 +38,9 @@ I use comments in [XMLDOC](https://docwiki.embarcadero.com/RADStudio/en/XML_Docu
 
 I regularly use the [DocInsight](https://devjetsoftware.com/products/documentation-insight/) tool to enter them and check their formatting.
 
-Documentation is exported in HTML by [DocInsight](https://devjetsoftware.com/products/documentation-insight/) or [PasDoc](https://pasdoc.github.io) to the /docs folder of the repository. You can also [access it online](https://developpeurpascal.github.io/DAD48) through the hosting offered by GitHub Pages.
+Documentation is exported in HTML by [DocInsight](https://devjetsoftware.com/products/documentation-insight/) or [PasDoc](https://pasdoc.github.io) to the /docs folder of the repository. You can also [access it online](https://developpeurpascal.github.io/DAD48-LudumDare48) through the hosting offered by GitHub Pages.
 
-Further information (tutorials, articles, videos, FAQ, talks and links) can be found on [the project website](https://dad48.gamolf.fr) or [the project devlog](https://developpeur-pascal.fr/dad48.html).
+Further information (tutorials, articles, videos, FAQ, talks and links) can be found on [the project website](https://dad48.gamolf.fr/) or [the project devlog](https://developpeur-pascal.fr/dad48.html).
 
 If you need explanations or help in understanding or using parts of this project in yours, please [contact me](https://developpeur-pascal.fr/nous-contacter.php). I can either direct you to an online resource, or offer you assistance in the form of a paid or free service, depending on the case. You can also contact me at a conference or during an online presentation.
 
@@ -52,7 +52,7 @@ Normally, my libraries and components should also run on at least the current ve
 
 There's no guarantee of compatibility with earlier versions, even though I try to keep my code clean and avoid using too many of the new ways of writing in it (type inference, inline var and multiline strings).
 
-If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/DAD48/issues) so that I can test and try to correct or provide a workaround.
+If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/DAD48-LudumDare48/issues) so that I can test and try to correct or provide a workaround.
 
 ## License to use this code repository and its contents
 
@@ -69,7 +69,7 @@ The source codes of this code repository as well as any compiled version are pro
 
 ## How to ask a new feature, report a bug or a security issue ?
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/DAD48) and [open a new issue](https://github.com/DeveloppeurPascal/DAD48/issues).
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/DAD48-LudumDare48) and [open a new issue](https://github.com/DeveloppeurPascal/DAD48-LudumDare48/issues).
 
 If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
 
